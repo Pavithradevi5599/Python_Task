@@ -1,3 +1,4 @@
+#convert data.txt file to data.js and the file contents must be in json format
 import json
 with open('data.txt','r')as txt_file:
     data=txt_file.read().splitlines()

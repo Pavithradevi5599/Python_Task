@@ -1,3 +1,11 @@
+"""
+convert it into json format expected output
+{
+    "name":"Toyota Rava4",
+    "engine":"2.5L",
+    "price":32000
+}
+"""
 import json
 class Vehicle:
     def __init__(self,name,engine,price):

@@ -1,3 +1,4 @@
+#print the value of salary
 import json
 sampleJson="""
 {
